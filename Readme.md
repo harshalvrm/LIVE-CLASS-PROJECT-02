@@ -11,7 +11,7 @@ The second project of the assignment of INeuron is made for the restaurant busin
     <img src="https://learncodeonline.in/mascot.png" alt="Logo" width="80">
   </a>
 
-<h3 align="center">Project 01</h3>
+<h3 align="center">Project 02</h3>
 
   <p align="center">   
     <a href="https://harshalverma-project02.netlify.app/">View Live Demo</a>
